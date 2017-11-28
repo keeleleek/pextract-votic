@@ -1,0 +1,367 @@
+<LexicalResource>
+  <GlobalInformation languageCoding="ISO 639-3"/>
+  <Lexicon language="vot">
+    <LexicalEntry partOfSpeech="commonNoun">
+      <Lemma></Lemma>
+      <WordForm grammaticalNumber="singular" grammaticalCase="nominative" writtenForm="aa.põ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="nominative" writtenForm="aa.võd"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="genitive" writtenForm="aa.va"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="genitive" writtenForm="aa.poi" attested="no"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="genitive" writtenForm="aa.po.jõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="partitive" writtenForm="aa.pa"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="partitive" writtenForm="aa.poi"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="partitive" writtenForm="aa.poi.tõ" attested="no"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="illative" writtenForm="aa.paa"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="illative" writtenForm="aa.pa.sõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="illative" writtenForm="aa.poi.sõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="inessive" writtenForm="aa.vaz"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="inessive" writtenForm="aa.voiz"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="elative" writtenForm="aa.võs.sõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="elative" writtenForm="aa.pois.sõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="allative" writtenForm="aa.võl.lõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="allative" writtenForm="aa.poil.lõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="adessive" writtenForm="aa.võl"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="adessive" writtenForm="aa.poil"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="ablative" writtenForm="aa.võs.si"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="ablative" writtenForm="aa.pois.si"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="translative" writtenForm="aa.pas.si"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="translative" writtenForm="aa.pois.si"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="terminative" writtenForm="aa.pas.saa"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="terminative" writtenForm="aa.pois.saa"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="comitative" writtenForm="aa.va.ka"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="comitative" writtenForm="aa.poi.ka"></WordForm>
+    </LexicalEntry>
+    <LexicalEntry partOfSpeech="commonNoun">
+      <Lemma></Lemma>
+      <WordForm grammaticalNumber="singular" grammaticalCase="nominative" writtenForm="poi.kõ">
+        <Stem>
+          <feat grade="strong"/>
+          <feat stemC="k"/>
+          <feat stemV="õ"/>
+        </Stem>
+      </WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="nominative" writtenForm="poi.gõd">
+        <Stem><feat grade="weak"/><feat stemC="g"/><feat stemV="õ"/></Stem>
+        <Affix>d</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="genitive" writtenForm="poi.ga">
+        <Stem><feat grade="weak"/><feat stemC="g"/><feat stemV="a"/></Stem>
+      </WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="genitive" writtenForm="poi.ki">
+        <Stem><feat grade="strong"/><feat stemC="k"/></Stem>
+        <Affix>i</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="genitive" writtenForm="poi.ki.je">
+        <Stem><feat grade="strong"/><feat stemC="k"/></Stem>
+        <Affix>i</Affix>
+        <Affix>je</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="partitive" writtenForm="poi.ka">
+        <Stem><feat grade="strong"/><feat stemC="k"/><feat stemV="a"/></Stem>
+      </WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="partitive" writtenForm="poi.kaa">
+        <Stem><feat grade="strong"/><feat stemC="k"/><feat stemV="a"/></Stem>
+        <Affix>a</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="partitive" writtenForm="poi.ki">
+        <Stem><feat grade="strong"/><feat stemC="k"/></Stem>
+        <Affix>i</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="partitive" writtenForm="poi.ki.tõ">
+        <Stem><feat grade="strong"/><feat stemC="k"/></Stem>
+        <Affix>i</Affix>
+        <Affix>tõ</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="illative" writtenForm="poi.kaa">
+        <Stem><feat grade="strong"/><feat stemC="k"/><feat stemV="a"/></Stem>
+        <Affix>a</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="illative" writtenForm="poi.ka.sõ">
+        <Stem><feat grade="strong"/><feat stemC="k"/><feat stemV="a"/></Stem>
+        <Affix>sõ</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="illative" writtenForm="poi.ki">
+        <Stem><feat grade="strong"/><feat stemC="k"/></Stem>
+        <Affix>i</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="illative" writtenForm="poi.ki.sõ">
+        <Stem><feat grade="strong"/><feat stemC="k"/></Stem>
+        <Affix>i</Affix>
+        <Affix>sõ</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="inessive" writtenForm="poi.gõz">
+        <Stem><feat grade="weak"/><feat stemC="g"/><feat stemV="õ"/></Stem>
+        <Affix>z</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="inessive" writtenForm="poi.kiz">
+        <Stem><feat grade="strong"/><feat stemC="k"/></Stem>
+        <Affix>i</Affix>
+        <Affix>z</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="elative" writtenForm="poi.gõs.sõ">
+        <Stem><feat grade="weak"/><feat stemC="g"/><feat stemV="õ"/></Stem>
+        <Affix>ssõ</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="elative" writtenForm="poi.kis.sõ">
+        <Stem><feat grade="strong"/><feat stemC="k"/></Stem>
+        <Affix>i</Affix>
+        <Affix>ssõ</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="allative" writtenForm="poi.gõl.lõ">
+        <Stem><feat grade="weak"/><feat stemC="g"/><feat stemV="õ"/></Stem>
+        <Affix>llõ</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="allative" writtenForm="poi.kil.lõ">
+        <Stem><feat grade="strong"/><feat stemC="k"/></Stem>
+        <Affix>i</Affix>
+        <Affix>llõ</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="adessive" writtenForm="poi.gõl">
+        <Stem><feat grade="weak"/><feat stemC="g"/><feat stemV="õ"/></Stem>
+        <Affix>l</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="adessive" writtenForm="poi.kil">
+        <Stem><feat grade="strong"/><feat stemC="k"/></Stem>
+        <Affix>i</Affix>
+        <Affix>l</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="ablative" writtenForm="poi.gõl.tõ">
+        <Stem><feat grade="weak"/><feat stemC="g"/><feat stemV="õ"/></Stem>
+        <Affix>ltõ</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="ablative" writtenForm="poi.kil.tõ">
+        <Stem><feat grade="strong"/><feat stemC="k"/></Stem>
+        <Affix>i</Affix>
+        <Affix>ltõ</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="translative" writtenForm="poi.gõs.si">
+        <Stem><feat grade="weak"/><feat stemC="g"/><feat stemV="õ"/></Stem>
+        <Affix>ssi</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="translative" writtenForm="poi.kis.si">
+        <Stem><feat grade="strong"/><feat stemC="k"/></Stem>
+        <Affix>i</Affix>
+        <Affix>ssi</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="terminative" writtenForm="poi.kas.saa">
+        <Stem><feat grade="strong"/><feat stemC="k"/><feat stemV="a"/></Stem>
+        <Affix>ssaa</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="terminative" writtenForm="poi.kis.saa">
+        <Stem><feat grade="strong"/><feat stemC="k"/></Stem>
+        <Affix>i</Affix>
+        <Affix>ssaa</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="comitative" writtenForm="poi.ga.ka">
+        <Stem><feat grade="weak"/><feat stemC="g"/><feat stemV="a"/></Stem>
+        <Affix>ka</Affix>
+      </WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="comitative" writtenForm="poi.ki.ka">
+        <Stem><feat grade="strong"/><feat stemC="k"/></Stem>
+        <Affix>i</Affix>
+        <Affix>ka</Affix>
+      </WordForm>
+    </LexicalEntry>
+    <LexicalEntry partOfSpeech="commonNoun">
+      <Lemma></Lemma>
+      <WordForm grammaticalNumber="singular" grammaticalCase="nominative" writtenForm="jal.kõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="nominative" writtenForm="jal.gõd"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="genitive" writtenForm="jal.ga"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="genitive" writtenForm="jal.koi"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="genitive" writtenForm="jal.ko.jõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="partitive" writtenForm="jal.ka"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="partitive" writtenForm="jal.kaa"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="partitive" writtenForm="jal.koi"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="partitive" writtenForm="jal.koi.tõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="illative" writtenForm="jal.ka"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="illative" writtenForm="jal.ka.sõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="illative" writtenForm="jal.koi.sõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="inessive" writtenForm="jal.gõz"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="inessive" writtenForm="jal.koiz"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="elative" writtenForm="jal.gõs.sõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="elative" writtenForm="jal.kois.sõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="allative" writtenForm="jal.gõl.lõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="allative" writtenForm="jal.koil.lõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="adessive" writtenForm="jal.gõl"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="adessive" writtenForm="jal.koil"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="ablative" writtenForm="jal.gõl.tõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="ablative" writtenForm="jal.koil.tõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="translative" writtenForm="jal.gõs.si"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="translative" writtenForm="jal.kois.si"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="terminative" writtenForm="jal.kas.saa"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="terminative" writtenForm="jal.kois.saa"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="comitative" writtenForm="jal.ga.ka"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="comitative" writtenForm="jal.koi.ka"></WordForm>
+    </LexicalEntry>
+    <LexicalEntry partOfSpeech="commonNoun">
+      <Lemma></Lemma>
+      <WordForm grammaticalNumber="singular" grammaticalCase="nominative"  writtenForm="ai.kõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="nominative"  writtenForm="ai.gõd"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="genitive"    writtenForm="ai.ga"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="genitive"    writtenForm="ai.koi"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="genitive"    writtenForm="ai.ko.jõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="partitive"   writtenForm="ai.ka"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="partitive"   writtenForm="ai.kaa"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="partitive"   writtenForm="ai.koi"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="partitive"   writtenForm="ai.koi.tõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="illative"    writtenForm="ai.ka"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="illative"    writtenForm="ai.ka.sõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="illative"    writtenForm="ai.koi.sõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="inessive"    writtenForm="ai.gõz"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="inessive"    writtenForm="ai.koiz"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="elative"     writtenForm="ai.gõs.sõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="elative"     writtenForm="ai.kois.sõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="allative"    writtenForm="ai.gõl.lõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="allative"    writtenForm="ai.koil.lõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="adessive"    writtenForm="ai.gõl"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="adessive"    writtenForm="ai.koil"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="ablative"    writtenForm="ai.gõl.tõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="ablative"    writtenForm="ai.koil.tõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="translative" writtenForm="ai.gõs.si"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="translative" writtenForm="ai.kois.si"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="terminative" writtenForm="ai.kas.saa"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="terminative" writtenForm="ai.kois.saa"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="comitative"  writtenForm="ai.ga.ka"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="comitative"  writtenForm="ai.koi.ka"></WordForm>
+    </LexicalEntry>
+    <LexicalEntry partOfSpeech="commonNoun">
+      <Lemma></Lemma>
+      <WordForm grammaticalNumber="singular" grammaticalCase="nominative"  writtenForm="len.tüz"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="nominative"  writtenForm="len.tü.sed"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="genitive"    writtenForm="len.tü.se"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="genitive"    writtenForm="len.tü.si"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="partitive"   writtenForm="len.tüs.se"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="partitive"   writtenForm="len.tüs.si"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="illative"    writtenForm="len.tü.ses.se"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="illative"    writtenForm="len.tü.sis.se"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="inessive"    writtenForm="len.tü.sez"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="inessive"    writtenForm="len.tü.siz"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="elative"     writtenForm="len.tüs.se"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="elative"     writtenForm="len.tüsis.sõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="allative"    writtenForm="len.tü gõl.lõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="allative"    writtenForm="len.tü koil.lõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="adessive"    writtenForm="len.tü gõl"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="adessive"    writtenForm="len.tü koil"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="ablative"    writtenForm="len.tü gõl.tõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="ablative"    writtenForm="len.tü koil.tõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="translative" writtenForm="len.tü gõs.si"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="translative" writtenForm="len.tü kois.si"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="terminative" writtenForm="len.tü kas.saa"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="terminative" writtenForm="len.tü kois.saa"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="comitative"  writtenForm="len.tü ga.ka"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="comitative"  writtenForm="len.tü koi.ka"></WordForm>
+    </LexicalEntry>
+    <LexicalEntry partOfSpeech="commonNoun">
+      <Lemma></Lemma>
+      <WordForm grammaticalNumber="singular" grammaticalCase="nominative" writtenForm="am.mõz"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="nominative" writtenForm="am.pad"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="genitive" writtenForm="am.pa"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="genitive" writtenForm="am.pai.jõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="partitive" writtenForm="am.mas.sõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="partitive" writtenForm="am.pai.tõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="illative" writtenForm="am.pa.sõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="illative" writtenForm="am.pai.sõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="inessive" writtenForm="am.paz"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="inessive" writtenForm="am.paiz"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="elative" writtenForm="am.pas.sõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="elative" writtenForm="am.pais.sõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="allative" writtenForm="am.pal.lõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="allative" writtenForm="am.pail.lõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="adessive" writtenForm="am.pal"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="adessive" writtenForm="am.pail"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="ablative" writtenForm="am.pal.tõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="ablative" writtenForm="am.pail.tõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="translative" writtenForm="am.pas.si"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="translative" writtenForm="am.pais.si"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="terminative" writtenForm="am.pas.saa"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="terminative" writtenForm="am.pais.saa"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="comitative" writtenForm="am.pa.ka"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="comitative" writtenForm="am.pai.ka"></WordForm>
+    </LexicalEntry>
+    <LexicalEntry partOfSpeech="commonNoun">
+      <Lemma></Lemma>
+      <WordForm grammaticalNumber="singular" grammaticalCase="nominative" writtenForm="tüt.tö"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="nominative" writtenForm="tü.töd"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="genitive" writtenForm="tü.tö"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="genitive" writtenForm="tüt.töi"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="genitive" writtenForm="tüt.tö.je"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="partitive" writtenForm="tüt.töä"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="partitive" writtenForm="tüt.töi"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="partitive" writtenForm="tüt.töi.te"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="illative" writtenForm="tüt.tö.se"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="illative" writtenForm="tüt.töi.se"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="inessive" writtenForm="tüt.töz"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="inessive" writtenForm="tüt.töiz"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="elative" writtenForm="tü.tös.se"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="elative" writtenForm="tüt.töis.se"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="allative" writtenForm="tü.töl.le"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="allative" writtenForm="tüt.töil.le"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="adessive" writtenForm="tü.töl"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="adessive" writtenForm="tüt.töil"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="ablative" writtenForm="tü.töl.te"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="ablative" writtenForm="tüt.töil.te"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="translative" writtenForm="tü.tös.si"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="translative" writtenForm="tüt.töis.si"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="terminative" writtenForm="tüt.tös.saa"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="terminative" writtenForm="tüt.töis.saa"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="comitative" writtenForm="tü.tö.ka"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="comitative" writtenForm="tüt.töi.ka"></WordForm>
+    </LexicalEntry>
+    <LexicalEntry partOfSpeech="personalPronoun">
+      <Lemma></Lemma>
+      <WordForm grammaticalNumber="singular" grammaticalCase="nominative"  writtenForm="miä" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="nominative"  writtenForm="müü" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="genitive"    writtenForm="minu" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="genitive"    writtenForm="med̕d̕e" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="genitive"    writtenForm="meije" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="partitive"   writtenForm="minnua" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="partitive"   writtenForm="meite" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="illative"    writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="illative"    writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="inessive"    writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="inessive"    writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="elative"     writtenForm="minussõ" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="elative"     writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="allative"    writtenForm="millõ" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="allative"    writtenForm="meille" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="adessive"    writtenForm="mill" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="adessive"    writtenForm="meill" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="ablative"    writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="ablative"    writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="translative" writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="translative" writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="terminative" writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="terminative" writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="comitative"  writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="comitative"  writtenForm=""></WordForm>
+    </LexicalEntry>
+    <LexicalEntry partOfSpeech="personalPronoun">
+      <Lemma></Lemma>
+      <WordForm grammaticalNumber="singular" grammaticalCase="nominative"  writtenForm="siä" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="nominative"  writtenForm="tämä" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="genitive"    writtenForm="sinu" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="genitive"    writtenForm="tämä" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="partitive"   writtenForm="sinnua" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="partitive"   writtenForm="tätä" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="illative"    writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="illative"    writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="inessive"    writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="inessive"    writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="elative"     writtenForm="minussõ" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="elative"     writtenForm="tämässe" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="allative"    writtenForm="sillõ" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="allative"    writtenForm="tälle" attestedInCorpus="Sõnakopittõja"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="adessive"    writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="adessive"    writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="ablative"    writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="ablative"    writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="translative" writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="translative" writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="terminative" writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="terminative" writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="comitative"  writtenForm=""></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="comitative"  writtenForm=""></WordForm>
+    </LexicalEntry>
+  </Lexicon>
+</LexicalResource>
+
