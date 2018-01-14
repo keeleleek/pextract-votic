@@ -1,0 +1,192 @@
+aapõ	grammaticalNumber=singular,grammaticalCase=nominative
+aavõd	grammaticalNumber=plural,grammaticalCase=nominative
+aava	grammaticalNumber=singular,grammaticalCase=genitive
+aapoi	grammaticalNumber=plural,grammaticalCase=genitive
+aapojõ	grammaticalNumber=plural,grammaticalCase=genitive
+aapa	grammaticalNumber=singular,grammaticalCase=partitive
+aapoi	grammaticalNumber=plural,grammaticalCase=partitive
+aapoitõ	grammaticalNumber=plural,grammaticalCase=partitive
+aapaa	grammaticalNumber=singular,grammaticalCase=illative
+aapasõ	grammaticalNumber=singular,grammaticalCase=illative
+aapoisõ	grammaticalNumber=plural,grammaticalCase=illative
+aavaz	grammaticalNumber=singular,grammaticalCase=inessive
+aavoiz	grammaticalNumber=plural,grammaticalCase=inessive
+aavõssõ	grammaticalNumber=singular,grammaticalCase=elative
+aapoissõ	grammaticalNumber=plural,grammaticalCase=elative
+aavõllõ	grammaticalNumber=singular,grammaticalCase=allative
+aapoillõ	grammaticalNumber=plural,grammaticalCase=allative
+aavõl	grammaticalNumber=singular,grammaticalCase=adessive
+aapoil	grammaticalNumber=plural,grammaticalCase=adessive
+aavõssi	grammaticalNumber=singular,grammaticalCase=ablative
+aapoissi	grammaticalNumber=plural,grammaticalCase=ablative
+aapassi	grammaticalNumber=singular,grammaticalCase=translative
+aapoissi	grammaticalNumber=plural,grammaticalCase=translative
+aapassaa	grammaticalNumber=singular,grammaticalCase=terminative
+aapoissaa	grammaticalNumber=plural,grammaticalCase=terminative
+aavaka	grammaticalNumber=singular,grammaticalCase=comitative
+aapoika	grammaticalNumber=plural,grammaticalCase=comitative
+
+poikõ	grammaticalNumber=singular,grammaticalCase=nominative
+poigõd	grammaticalNumber=plural,grammaticalCase=nominative
+poiga	grammaticalNumber=singular,grammaticalCase=genitive
+poiki	grammaticalNumber=plural,grammaticalCase=genitive
+poikije	grammaticalNumber=plural,grammaticalCase=genitive
+poika	grammaticalNumber=singular,grammaticalCase=partitive
+poikaa	grammaticalNumber=singular,grammaticalCase=partitive
+poiki	grammaticalNumber=plural,grammaticalCase=partitive
+poikitõ	grammaticalNumber=plural,grammaticalCase=partitive
+poikaa	grammaticalNumber=singular,grammaticalCase=illative
+poikasõ	grammaticalNumber=singular,grammaticalCase=illative
+poiki	grammaticalNumber=plural,grammaticalCase=illative
+poikisõ	grammaticalNumber=plural,grammaticalCase=illative
+poigõz	grammaticalNumber=singular,grammaticalCase=inessive
+poikiz	grammaticalNumber=plural,grammaticalCase=inessive
+poigõssõ	grammaticalNumber=singular,grammaticalCase=elative
+poikissõ	grammaticalNumber=plural,grammaticalCase=elative
+poigõllõ	grammaticalNumber=singular,grammaticalCase=allative
+poikillõ	grammaticalNumber=plural,grammaticalCase=allative
+poigõl	grammaticalNumber=singular,grammaticalCase=adessive
+poikil	grammaticalNumber=plural,grammaticalCase=adessive
+poigõltõ	grammaticalNumber=singular,grammaticalCase=ablative
+poikiltõ	grammaticalNumber=plural,grammaticalCase=ablative
+poigõssi	grammaticalNumber=singular,grammaticalCase=translative
+poikissi	grammaticalNumber=plural,grammaticalCase=translative
+poikassaa	grammaticalNumber=singular,grammaticalCase=terminative
+poikissaa	grammaticalNumber=plural,grammaticalCase=terminative
+poigaka	grammaticalNumber=singular,grammaticalCase=comitative
+poikika	grammaticalNumber=plural,grammaticalCase=comitative
+
+jalkõ	grammaticalNumber=singular,grammaticalCase=nominative
+jalgõd	grammaticalNumber=plural,grammaticalCase=nominative
+jalga	grammaticalNumber=singular,grammaticalCase=genitive
+jalkoi	grammaticalNumber=plural,grammaticalCase=genitive
+jalkojõ	grammaticalNumber=plural,grammaticalCase=genitive
+jalka	grammaticalNumber=singular,grammaticalCase=partitive
+jalkaa	grammaticalNumber=singular,grammaticalCase=partitive
+jalkoi	grammaticalNumber=plural,grammaticalCase=partitive
+jalkoitõ	grammaticalNumber=plural,grammaticalCase=partitive
+jalka	grammaticalNumber=singular,grammaticalCase=illative
+jalkasõ	grammaticalNumber=singular,grammaticalCase=illative
+jalkoisõ	grammaticalNumber=plural,grammaticalCase=illative
+jalgõz	grammaticalNumber=singular,grammaticalCase=inessive
+jalkoiz	grammaticalNumber=plural,grammaticalCase=inessive
+jalgõssõ	grammaticalNumber=singular,grammaticalCase=elative
+jalkoissõ	grammaticalNumber=plural,grammaticalCase=elative
+jalgõllõ	grammaticalNumber=singular,grammaticalCase=allative
+jalkoillõ	grammaticalNumber=plural,grammaticalCase=allative
+jalgõl	grammaticalNumber=singular,grammaticalCase=adessive
+jalkoil	grammaticalNumber=plural,grammaticalCase=adessive
+jalgõltõ	grammaticalNumber=singular,grammaticalCase=ablative
+jalkoiltõ	grammaticalNumber=plural,grammaticalCase=ablative
+jalgõssi	grammaticalNumber=singular,grammaticalCase=translative
+jalkoissi	grammaticalNumber=plural,grammaticalCase=translative
+jalkassaa	grammaticalNumber=singular,grammaticalCase=terminative
+jalkoissaa	grammaticalNumber=plural,grammaticalCase=terminative
+jalgaka	grammaticalNumber=singular,grammaticalCase=comitative
+jalkoika	grammaticalNumber=plural,grammaticalCase=comitative
+
+aikõ	grammaticalNumber=singular,grammaticalCase=nominative
+aigõd	grammaticalNumber=plural,grammaticalCase=nominative
+aiga	grammaticalNumber=singular,grammaticalCase=genitive
+aikoi	grammaticalNumber=plural,grammaticalCase=genitive
+aikojõ	grammaticalNumber=plural,grammaticalCase=genitive
+aika	grammaticalNumber=singular,grammaticalCase=partitive
+aikaa	grammaticalNumber=singular,grammaticalCase=partitive
+aikoi	grammaticalNumber=plural,grammaticalCase=partitive
+aikoitõ	grammaticalNumber=plural,grammaticalCase=partitive
+aika	grammaticalNumber=singular,grammaticalCase=illative
+aikasõ	grammaticalNumber=singular,grammaticalCase=illative
+aikoisõ	grammaticalNumber=plural,grammaticalCase=illative
+aigõz	grammaticalNumber=singular,grammaticalCase=inessive
+aikoiz	grammaticalNumber=plural,grammaticalCase=inessive
+aigõssõ	grammaticalNumber=singular,grammaticalCase=elative
+aikoissõ	grammaticalNumber=plural,grammaticalCase=elative
+aigõllõ	grammaticalNumber=singular,grammaticalCase=allative
+aikoillõ	grammaticalNumber=plural,grammaticalCase=allative
+aigõl	grammaticalNumber=singular,grammaticalCase=adessive
+aikoil	grammaticalNumber=plural,grammaticalCase=adessive
+aigõltõ	grammaticalNumber=singular,grammaticalCase=ablative
+aikoiltõ	grammaticalNumber=plural,grammaticalCase=ablative
+aigõssi	grammaticalNumber=singular,grammaticalCase=translative
+aikoissi	grammaticalNumber=plural,grammaticalCase=translative
+aikassaa	grammaticalNumber=singular,grammaticalCase=terminative
+aikoissaa	grammaticalNumber=plural,grammaticalCase=terminative
+aigaka	grammaticalNumber=singular,grammaticalCase=comitative
+aikoika	grammaticalNumber=plural,grammaticalCase=comitative
+
+lentüz	grammaticalNumber=singular,grammaticalCase=nominative
+lentüsed	grammaticalNumber=plural,grammaticalCase=nominative
+lentüse	grammaticalNumber=singular,grammaticalCase=genitive
+lentüsi	grammaticalNumber=plural,grammaticalCase=genitive
+lentüsse	grammaticalNumber=singular,grammaticalCase=partitive
+lentüssi	grammaticalNumber=plural,grammaticalCase=partitive
+lentüsesse	grammaticalNumber=singular,grammaticalCase=illative
+lentüsisse	grammaticalNumber=plural,grammaticalCase=illative
+lentüsez	grammaticalNumber=singular,grammaticalCase=inessive
+lentüsiz	grammaticalNumber=plural,grammaticalCase=inessive
+lentüsse	grammaticalNumber=singular,grammaticalCase=elative
+lentüsissõ	grammaticalNumber=plural,grammaticalCase=elative
+lentü gõllõ	grammaticalNumber=singular,grammaticalCase=allative
+lentü koillõ	grammaticalNumber=plural,grammaticalCase=allative
+lentü gõl	grammaticalNumber=singular,grammaticalCase=adessive
+lentü koil	grammaticalNumber=plural,grammaticalCase=adessive
+lentü gõltõ	grammaticalNumber=singular,grammaticalCase=ablative
+lentü koiltõ	grammaticalNumber=plural,grammaticalCase=ablative
+lentü gõssi	grammaticalNumber=singular,grammaticalCase=translative
+lentü koissi	grammaticalNumber=plural,grammaticalCase=translative
+lentü kassaa	grammaticalNumber=singular,grammaticalCase=terminative
+lentü koissaa	grammaticalNumber=plural,grammaticalCase=terminative
+lentü gaka	grammaticalNumber=singular,grammaticalCase=comitative
+lentü koika	grammaticalNumber=plural,grammaticalCase=comitative
+
+ammõz	grammaticalNumber=singular,grammaticalCase=nominative
+ampad	grammaticalNumber=plural,grammaticalCase=nominative
+ampa	grammaticalNumber=singular,grammaticalCase=genitive
+ampaijõ	grammaticalNumber=plural,grammaticalCase=genitive
+ammassõ	grammaticalNumber=singular,grammaticalCase=partitive
+ampaitõ	grammaticalNumber=plural,grammaticalCase=partitive
+ampasõ	grammaticalNumber=singular,grammaticalCase=illative
+ampaisõ	grammaticalNumber=plural,grammaticalCase=illative
+ampaz	grammaticalNumber=singular,grammaticalCase=inessive
+ampaiz	grammaticalNumber=plural,grammaticalCase=inessive
+ampassõ	grammaticalNumber=singular,grammaticalCase=elative
+ampaissõ	grammaticalNumber=plural,grammaticalCase=elative
+ampallõ	grammaticalNumber=singular,grammaticalCase=allative
+ampaillõ	grammaticalNumber=plural,grammaticalCase=allative
+ampal	grammaticalNumber=singular,grammaticalCase=adessive
+ampail	grammaticalNumber=plural,grammaticalCase=adessive
+ampaltõ	grammaticalNumber=singular,grammaticalCase=ablative
+ampailtõ	grammaticalNumber=plural,grammaticalCase=ablative
+ampassi	grammaticalNumber=singular,grammaticalCase=translative
+ampaissi	grammaticalNumber=plural,grammaticalCase=translative
+ampassaa	grammaticalNumber=singular,grammaticalCase=terminative
+ampaissaa	grammaticalNumber=plural,grammaticalCase=terminative
+ampaka	grammaticalNumber=singular,grammaticalCase=comitative
+ampaika	grammaticalNumber=plural,grammaticalCase=comitative
+
+tüttö	grammaticalNumber=singular,grammaticalCase=nominative
+tütöd	grammaticalNumber=plural,grammaticalCase=nominative
+tütö	grammaticalNumber=singular,grammaticalCase=genitive
+tüttöi	grammaticalNumber=plural,grammaticalCase=genitive
+tüttöje	grammaticalNumber=plural,grammaticalCase=genitive
+tüttöä	grammaticalNumber=singular,grammaticalCase=partitive
+tüttöi	grammaticalNumber=plural,grammaticalCase=partitive
+tüttöite	grammaticalNumber=plural,grammaticalCase=partitive
+tüttöse	grammaticalNumber=singular,grammaticalCase=illative
+tüttöise	grammaticalNumber=plural,grammaticalCase=illative
+tüttöz	grammaticalNumber=singular,grammaticalCase=inessive
+tüttöiz	grammaticalNumber=plural,grammaticalCase=inessive
+tütösse	grammaticalNumber=singular,grammaticalCase=elative
+tüttöisse	grammaticalNumber=plural,grammaticalCase=elative
+tütölle	grammaticalNumber=singular,grammaticalCase=allative
+tüttöille	grammaticalNumber=plural,grammaticalCase=allative
+tütöl	grammaticalNumber=singular,grammaticalCase=adessive
+tüttöil	grammaticalNumber=plural,grammaticalCase=adessive
+tütölte	grammaticalNumber=singular,grammaticalCase=ablative
+tüttöilte	grammaticalNumber=plural,grammaticalCase=ablative
+tütössi	grammaticalNumber=singular,grammaticalCase=translative
+tüttöissi	grammaticalNumber=plural,grammaticalCase=translative
+tüttössaa	grammaticalNumber=singular,grammaticalCase=terminative
+tüttöissaa	grammaticalNumber=plural,grammaticalCase=terminative
+tütöka	grammaticalNumber=singular,grammaticalCase=comitative
+tüttöika	grammaticalNumber=plural,grammaticalCase=comitative
