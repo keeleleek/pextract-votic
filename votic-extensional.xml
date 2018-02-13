@@ -420,6 +420,36 @@
       <WordForm writtenForm="ahkõraka" grammaticalNumber="singular" grammaticalCase="comitative"/>
       <WordForm writtenForm="ahkõroika" grammaticalNumber="plural" grammaticalCase="comitative"/>
     </LexicalEntry>
+    <LexicalEntry partOfSpeech="commonNoun">
+      <Lemma></Lemma>
+      <WordForm grammaticalNumber="singular" grammaticalCase="nominative"  writtenForm="aitõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="nominative"  writtenForm="aijõd"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="genitive"    writtenForm="aija"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="genitive"    writtenForm="aitoi"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="genitive"    writtenForm="aitojõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="partitive"   writtenForm="aita"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="partitive"   writtenForm="aitoi"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="partitive"   writtenForm="aitoitõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="illative"    writtenForm="aitaa"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="illative"    writtenForm="aitasõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="illative"    writtenForm="aitoisõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="inessive"    writtenForm="aijaz"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="inessive"    writtenForm="aijoiz"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="elative"     writtenForm="aijõssõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="elative"     writtenForm="aitoissõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="allative"    writtenForm="aijõllõ"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="allative"    writtenForm="aitoillõ"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="adessive"    writtenForm="aijõl"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="adessive"    writtenForm="aitoil"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="ablative"    writtenForm="aijõssi"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="ablative"    writtenForm="aitoissi"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="translative" writtenForm="aitassi"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="translative" writtenForm="aitoissi"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="terminative" writtenForm="aitassaa"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="terminative" writtenForm="aitoissaa"></WordForm>
+      <WordForm grammaticalNumber="singular" grammaticalCase="comitative"  writtenForm="aijaka"></WordForm>
+      <WordForm grammaticalNumber="plural"   grammaticalCase="comitative"  writtenForm="aitoika"></WordForm>
+    </LexicalEntry>
   </Lexicon>
 </LexicalResource>
 
