@@ -391,6 +391,35 @@
       <WordForm writtenForm="ahavaka" grammaticalNumber="singular" grammaticalCase="comitative"/>
       <WordForm writtenForm="ahavoika" grammaticalNumber="plural" grammaticalCase="comitative"/>
     </LexicalEntry>
+    <LexicalEntry>
+      <Lemma/>
+      <WordForm writtenForm="ahkõrõ" grammaticalNumber="singular" grammaticalCase="nominative"/>
+      <WordForm writtenForm="ahkõrõd" grammaticalNumber="plural" grammaticalCase="nominative"/>
+      <WordForm writtenForm="ahkõra" grammaticalNumber="singular" grammaticalCase="genitive"/>
+      <WordForm writtenForm="ahkõroi" grammaticalNumber="plural" grammaticalCase="genitive"/>
+      <WordForm writtenForm="ahkõra" grammaticalNumber="singular" grammaticalCase="partitive"/>
+      <WordForm writtenForm="ahkõroi" grammaticalNumber="plural" grammaticalCase="partitive"/>
+      <WordForm writtenForm="ahkõroitõ" grammaticalNumber="plural" grammaticalCase="partitive"/>
+      <WordForm writtenForm="ahkõraa" grammaticalNumber="singular" grammaticalCase="illative"/>
+      <WordForm writtenForm="ahkõrasõ" grammaticalNumber="singular" grammaticalCase="illative"/>
+      <WordForm writtenForm="ahkõroisõ" grammaticalNumber="plural" grammaticalCase="illative"/>
+      <WordForm writtenForm="ahkõraz" grammaticalNumber="singular" grammaticalCase="inessive"/>
+      <WordForm writtenForm="ahkõroiz" grammaticalNumber="plural" grammaticalCase="inessive"/>
+      <WordForm writtenForm="ahkõrõssõ" grammaticalNumber="singular" grammaticalCase="elative"/>
+      <WordForm writtenForm="ahkõroissõ" grammaticalNumber="plural" grammaticalCase="elative"/>
+      <WordForm writtenForm="ahkõrõllõ" grammaticalNumber="singular" grammaticalCase="allative"/>
+      <WordForm writtenForm="ahkõroillõ" grammaticalNumber="plural" grammaticalCase="allative"/>
+      <WordForm writtenForm="ahkõrõl" grammaticalNumber="singular" grammaticalCase="adessive"/>
+      <WordForm writtenForm="ahkõroil" grammaticalNumber="plural" grammaticalCase="adessive"/>
+      <WordForm writtenForm="ahkõrõssi" grammaticalNumber="singular" grammaticalCase="ablative"/>
+      <WordForm writtenForm="ahkõroissi" grammaticalNumber="plural" grammaticalCase="ablative"/>
+      <WordForm writtenForm="ahkõrassi" grammaticalNumber="singular" grammaticalCase="translative"/>
+      <WordForm writtenForm="ahkõroissi" grammaticalNumber="plural" grammaticalCase="translative"/>
+      <WordForm writtenForm="ahkõrassaa" grammaticalNumber="singular" grammaticalCase="terminative"/>
+      <WordForm writtenForm="ahkõroissaa" grammaticalNumber="plural" grammaticalCase="terminative"/>
+      <WordForm writtenForm="ahkõraka" grammaticalNumber="singular" grammaticalCase="comitative"/>
+      <WordForm writtenForm="ahkõroika" grammaticalNumber="plural" grammaticalCase="comitative"/>
+    </LexicalEntry>
   </Lexicon>
 </LexicalResource>
 
