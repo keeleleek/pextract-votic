@@ -362,6 +362,35 @@
       <WordForm grammaticalNumber="singular" grammaticalCase="comitative"  writtenForm=""></WordForm>
       <WordForm grammaticalNumber="plural"   grammaticalCase="comitative"  writtenForm=""></WordForm>
     </LexicalEntry>
+    <LexicalEntry>
+      <Lemma/>
+      <WordForm writtenForm="ahavõ" grammaticalNumber="singular" grammaticalCase="nominative"/>
+      <WordForm writtenForm="ahavõd" grammaticalNumber="plural" grammaticalCase="nominative"/>
+      <WordForm writtenForm="ahava" grammaticalNumber="singular" grammaticalCase="genitive"/>
+      <WordForm writtenForm="ahavoi" grammaticalNumber="plural" grammaticalCase="genitive"/>
+      <WordForm writtenForm="ahava" grammaticalNumber="singular" grammaticalCase="partitive"/>
+      <WordForm writtenForm="ahavoi" grammaticalNumber="plural" grammaticalCase="partitive"/>
+      <WordForm writtenForm="ahavoitõ" grammaticalNumber="plural" grammaticalCase="partitive"/>
+      <WordForm writtenForm="ahavaa" grammaticalNumber="singular" grammaticalCase="illative"/>
+      <WordForm writtenForm="ahavasõ" grammaticalNumber="singular" grammaticalCase="illative"/>
+      <WordForm writtenForm="ahavoisõ" grammaticalNumber="plural" grammaticalCase="illative"/>
+      <WordForm writtenForm="ahavaz" grammaticalNumber="singular" grammaticalCase="inessive"/>
+      <WordForm writtenForm="ahavoiz" grammaticalNumber="plural" grammaticalCase="inessive"/>
+      <WordForm writtenForm="ahavõssõ" grammaticalNumber="singular" grammaticalCase="elative"/>
+      <WordForm writtenForm="ahavoissõ" grammaticalNumber="plural" grammaticalCase="elative"/>
+      <WordForm writtenForm="ahavõllõ" grammaticalNumber="singular" grammaticalCase="allative"/>
+      <WordForm writtenForm="ahavoillõ" grammaticalNumber="plural" grammaticalCase="allative"/>
+      <WordForm writtenForm="ahavõl" grammaticalNumber="singular" grammaticalCase="adessive"/>
+      <WordForm writtenForm="ahavoil" grammaticalNumber="plural" grammaticalCase="adessive"/>
+      <WordForm writtenForm="ahavõssi" grammaticalNumber="singular" grammaticalCase="ablative"/>
+      <WordForm writtenForm="ahavoissi" grammaticalNumber="plural" grammaticalCase="ablative"/>
+      <WordForm writtenForm="ahavassi" grammaticalNumber="singular" grammaticalCase="translative"/>
+      <WordForm writtenForm="ahavoissi" grammaticalNumber="plural" grammaticalCase="translative"/>
+      <WordForm writtenForm="ahavassaa" grammaticalNumber="singular" grammaticalCase="terminative"/>
+      <WordForm writtenForm="ahavoissaa" grammaticalNumber="plural" grammaticalCase="terminative"/>
+      <WordForm writtenForm="ahavaka" grammaticalNumber="singular" grammaticalCase="comitative"/>
+      <WordForm writtenForm="ahavoika" grammaticalNumber="plural" grammaticalCase="comitative"/>
+    </LexicalEntry>
   </Lexicon>
 </LexicalResource>
 
