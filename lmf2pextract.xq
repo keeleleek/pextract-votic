@@ -6,7 +6,8 @@
  @copyright MTÜ Keeleleek
  :)
 
-let $file := doc("./votic-extensional.xml")
+let $base-dir := file:parent(static-base-uri())
+let $file := doc($base-dir || "votic-extensional.xml")
 let $lang := $file//*:Lexicon/@language
 
 (:~ 
@@ -19,7 +20,7 @@ let $strip-dots := function($string) { translate($string,".", "")}
 for $partofspeech in distinct-values($file//*:LexicalEntry/@partOfSpeech)
   return file:write-text(
     (: file path :)
-    "/tmp/" || $lang || "-" || $partofspeech,
+    $base-dir || "pextract/" || $lang || "-" || $partofspeech,
     (: file content :)
     string-join(
     for $lexicalentry in $file//*:LexicalEntry[@partOfSpeech = $partofspeech]
