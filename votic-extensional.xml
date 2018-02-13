@@ -450,6 +450,35 @@
       <WordForm grammaticalNumber="singular" grammaticalCase="comitative"  writtenForm="aijaka"></WordForm>
       <WordForm grammaticalNumber="plural"   grammaticalCase="comitative"  writtenForm="aitoika"></WordForm>
     </LexicalEntry>
+    <LexicalEntry partOfSpeech="commonNoun">
+      <Lemma/>
+      <WordForm writtenForm="akkunõ" grammaticalNumber="singular" grammaticalCase="nominative"/>
+      <WordForm writtenForm="akkunõd" grammaticalNumber="plural" grammaticalCase="nominative"/>
+      <WordForm writtenForm="akkuna" grammaticalNumber="singular" grammaticalCase="genitive"/>
+      <WordForm writtenForm="akkunoi" grammaticalNumber="plural" grammaticalCase="genitive"/>
+      <WordForm writtenForm="akkuna" grammaticalNumber="singular" grammaticalCase="partitive"/>
+      <WordForm writtenForm="akkunoi" grammaticalNumber="plural" grammaticalCase="partitive"/>
+      <WordForm writtenForm="akkunoitõ" grammaticalNumber="plural" grammaticalCase="partitive"/>
+      <WordForm writtenForm="akkunaa" grammaticalNumber="singular" grammaticalCase="illative"/>
+      <WordForm writtenForm="akkunasõ" grammaticalNumber="singular" grammaticalCase="illative"/>
+      <WordForm writtenForm="akkunoisõ" grammaticalNumber="plural" grammaticalCase="illative"/>
+      <WordForm writtenForm="akkunaz" grammaticalNumber="singular" grammaticalCase="inessive"/>
+      <WordForm writtenForm="akkunoiz" grammaticalNumber="plural" grammaticalCase="inessive"/>
+      <WordForm writtenForm="akkunõssõ" grammaticalNumber="singular" grammaticalCase="elative"/>
+      <WordForm writtenForm="akkunoissõ" grammaticalNumber="plural" grammaticalCase="elative"/>
+      <WordForm writtenForm="akkunõllõ" grammaticalNumber="singular" grammaticalCase="allative"/>
+      <WordForm writtenForm="akkunoillõ" grammaticalNumber="plural" grammaticalCase="allative"/>
+      <WordForm writtenForm="akkunõl" grammaticalNumber="singular" grammaticalCase="adessive"/>
+      <WordForm writtenForm="akkunoil" grammaticalNumber="plural" grammaticalCase="adessive"/>
+      <WordForm writtenForm="akkunõssi" grammaticalNumber="singular" grammaticalCase="ablative"/>
+      <WordForm writtenForm="akkunoissi" grammaticalNumber="plural" grammaticalCase="ablative"/>
+      <WordForm writtenForm="akkunassi" grammaticalNumber="singular" grammaticalCase="translative"/>
+      <WordForm writtenForm="akkunoissi" grammaticalNumber="plural" grammaticalCase="translative"/>
+      <WordForm writtenForm="akkunassaa" grammaticalNumber="singular" grammaticalCase="terminative"/>
+      <WordForm writtenForm="akkunoissaa" grammaticalNumber="plural" grammaticalCase="terminative"/>
+      <WordForm writtenForm="akkunaka" grammaticalNumber="singular" grammaticalCase="comitative"/>
+      <WordForm writtenForm="akkunoika" grammaticalNumber="plural" grammaticalCase="comitative"/>
+    </LexicalEntry>
   </Lexicon>
 </LexicalResource>
 
