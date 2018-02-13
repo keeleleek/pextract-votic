@@ -362,7 +362,7 @@
       <WordForm grammaticalNumber="singular" grammaticalCase="comitative"  writtenForm=""></WordForm>
       <WordForm grammaticalNumber="plural"   grammaticalCase="comitative"  writtenForm=""></WordForm>
     </LexicalEntry>
-    <LexicalEntry>
+    <LexicalEntry partOfSpeech="commonNoun">
       <Lemma/>
       <WordForm writtenForm="ahavõ" grammaticalNumber="singular" grammaticalCase="nominative"/>
       <WordForm writtenForm="ahavõd" grammaticalNumber="plural" grammaticalCase="nominative"/>
@@ -391,7 +391,7 @@
       <WordForm writtenForm="ahavaka" grammaticalNumber="singular" grammaticalCase="comitative"/>
       <WordForm writtenForm="ahavoika" grammaticalNumber="plural" grammaticalCase="comitative"/>
     </LexicalEntry>
-    <LexicalEntry>
+    <LexicalEntry partOfSpeech="commonNoun">
       <Lemma/>
       <WordForm writtenForm="ahkõrõ" grammaticalNumber="singular" grammaticalCase="nominative"/>
       <WordForm writtenForm="ahkõrõd" grammaticalNumber="plural" grammaticalCase="nominative"/>
